@@ -6,7 +6,7 @@
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>plugin</artifactId>
     <version>2.11</version>
-    <relativePath />
+    <relativePath/>
   </parent>
   <groupId>org.jenkins-ci.plugins</groupId>
   <artifactId>zap</artifactId>
@@ -126,7 +126,7 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
-      <version>3.4.2</version>
+      <version>3.5.0</version>
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.eclipse.jetty/jetty-http -->
